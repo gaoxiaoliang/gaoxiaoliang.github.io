@@ -10,3 +10,10 @@ author = 'Xiaoliang Gao'
 github = 'https://github.com/gaoxiaoliang'
 linkedin = 'https://www.linkedin.com/in/xiaoliang-gao/'
 email = 'xiaoliang.gao.ai@gmail.com'
+
+[menu]
+[[menu.main]]
+identifier = 'about'
+name = 'About'
+url = '/about/'
+weight = 100

@@ -2,6 +2,9 @@
 date = '2026-03-07T12:00:00+01:00'
 draft = false
 title = 'About Me'
+[menu.main]
+identifier = 'about'
+weight = 100
 +++
 
 Hi, I'm **Xiaoliang Gao** 👋
