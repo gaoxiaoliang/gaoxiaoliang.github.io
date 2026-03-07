@@ -13,6 +13,12 @@ email = 'xiaoliang.gao.ai@gmail.com'
 
 [menu]
 [[menu.main]]
+identifier = 'home'
+name = 'Home'
+url = '/'
+weight = 1
+
+[[menu.main]]
 identifier = 'about'
 name = 'About'
 url = '/about/'
