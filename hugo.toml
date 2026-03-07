@@ -1,6 +1,6 @@
 baseURL = 'https://gaoxiaoliang.github.io/'
 languageCode = 'en-us'
-title = 'Building Software in the Age of AI'
+title = 'Building Software in the Age of AI - Test'
 theme = 'PaperMod'
 
 [params]
